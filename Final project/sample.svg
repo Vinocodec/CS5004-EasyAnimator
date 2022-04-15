@@ -1,0 +1,387 @@
+<svg xmlns="http://www.w3.org/2000/svg" x='680.0' y='-510.0' width='100.0' height='100.0' version="1.1">
+<rect id="window270" x="460.0" y="1130.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="1130.0" to="430.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window150" x="280.0" y="-550.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-550.0" to="510.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window271" x="500.0" y="1130.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="1130.0" to="430.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window030" x="100.0" y="970.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="970.0" to="590.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window151" x="320.0" y="-550.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-550.0" to="510.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="99.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="99.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="99.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window031" x="140.0" y="970.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="970.0" to="590.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window350" x="640.0" y="-550.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-550.0" to="510.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window230" x="460.0" y="970.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="970.0" to="590.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window351" x="680.0" y="-550.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-550.0" to="510.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="100.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="100.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="100.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window220" x="460.0" y="930.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="930.0" to="630.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window341" x="680.0" y="-590.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-590.0" to="550.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window100" x="280.0" y="-750.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-750.0" to="710.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window221" x="500.0" y="930.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="930.0" to="630.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window101" x="320.0" y="-750.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-750.0" to="710.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="108.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="108.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="108.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window300" x="640.0" y="-750.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-750.0" to="710.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window301" x="680.0" y="-750.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-750.0" to="710.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="135.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="135.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="135.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window160" x="280.0" y="-510.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-510.0" to="470.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window040" x="100.0" y="1010.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="1010.0" to="550.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window161" x="320.0" y="-510.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-510.0" to="470.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window041" x="140.0" y="1010.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="1010.0" to="550.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="147.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="147.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="147.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window360" x="640.0" y="-510.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-510.0" to="470.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="99.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="99.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="99.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window240" x="460.0" y="1010.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="1010.0" to="550.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window361" x="680.0" y="-510.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-510.0" to="470.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="99.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="99.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="99.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window120" x="280.0" y="-670.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-670.0" to="630.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window241" x="500.0" y="1010.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="1010.0" to="550.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="112.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="112.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="112.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<ellipse id="eclipse" cx="400.0" cy="0.0" rx="100.0" ry="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="50.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="50.000000s" dur="40.000000s" attributeName="cx" from="400.0" to="230.0" fill="freeze"/>
+<animate attributeType="CSS" begin="50.000000s" dur="40.000000s" attributeName="cy" from="0.0" to="180.0" fill="freeze"/>
+<animate attributeType="CSS" begin="50.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="50.000000s" dur="40.000000s" attributeName="cx" from="400.0" to="230.0" fill="freeze"/>
+<animate attributeType="CSS" begin="50.000000s" dur="40.000000s" attributeName="cy" from="0.0" to="180.0" fill="freeze"/>
+<animate attributeType="CSS" begin="50.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</ellipse>
+<rect id="window110" x="280.0" y="-710.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-710.0" to="670.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="95.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="95.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="95.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window231" x="500.0" y="970.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="970.0" to="590.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window111" x="320.0" y="-710.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-710.0" to="670.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window310" x="640.0" y="-710.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-710.0" to="670.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="103.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="103.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="103.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window311" x="680.0" y="-710.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-710.0" to="670.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="background" x="0.0" y="0.0" width="100.0" height="100.0" fill="rgb(33.0, 94.0, 248.0)" visibility="hidden">
+<animate attributeType="CSS" begin="50.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="50.000000s" dur="40.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="50.000000s" dur="40.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="50.000000s" dur="40.000000s" attributeName="fill" from="rgb(33.0, 94.0, 248.0)" to="rgb(16.0, 45.0, 248.0)" fill="freeze"/>
+</rect>
+<rect id="window170" x="280.0" y="-470.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-470.0" to="430.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window050" x="100.0" y="1050.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="1050.0" to="510.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window171" x="320.0" y="-470.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-470.0" to="430.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window051" x="140.0" y="1050.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="1050.0" to="510.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window250" x="460.0" y="1050.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="1050.0" to="510.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="128.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="128.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="128.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window130" x="280.0" y="-630.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-630.0" to="590.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window251" x="500.0" y="1050.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="1050.0" to="510.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window010" x="100.0" y="890.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="890.0" to="670.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window131" x="320.0" y="-630.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-630.0" to="590.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="148.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="148.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="148.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window000" x="100.0" y="850.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="850.0" to="710.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window121" x="320.0" y="-670.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-670.0" to="630.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window001" x="140.0" y="850.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="850.0" to="710.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window320" x="640.0" y="-670.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-670.0" to="630.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window200" x="460.0" y="850.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="850.0" to="710.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="127.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="127.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="127.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window321" x="680.0" y="-670.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-670.0" to="630.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window201" x="500.0" y="850.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="850.0" to="710.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window180" x="280.0" y="-430.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-430.0" to="390.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window060" x="100.0" y="1090.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="1090.0" to="470.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="147.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="147.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="147.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window181" x="320.0" y="-430.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-430.0" to="390.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window061" x="140.0" y="1090.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="1090.0" to="470.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="93.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="93.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="93.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window260" x="460.0" y="1090.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="1090.0" to="470.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window140" x="280.0" y="-590.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-590.0" to="550.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window261" x="500.0" y="1090.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="1090.0" to="470.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="96.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="96.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="96.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window020" x="100.0" y="930.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="930.0" to="630.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window141" x="320.0" y="-590.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-590.0" to="550.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window021" x="140.0" y="930.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="930.0" to="630.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="82.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="82.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="82.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window340" x="640.0" y="-590.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-590.0" to="550.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window011" x="140.0" y="890.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="890.0" to="670.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window330" x="640.0" y="-630.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-630.0" to="590.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="81.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="81.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="81.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window210" x="460.0" y="890.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="890.0" to="670.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="83.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="83.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="83.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window331" x="680.0" y="-630.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="-630.0" to="590.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+<animate attributeType="CSS" begin="119.000000s" dur="5.000000s" attributeName="x" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="119.000000s" dur="5.000000s" attributeName="y" from="0.0" to="10.0" fill="freeze"/>
+<animate attributeType="CSS" begin="119.000000s" dur="5.000000s" attributeName="fill" from="rgb(255.0, 255.0, 255.0)" to="rgb(255.0, 255.0, 0.0)" fill="freeze"/>
+</rect>
+<rect id="window211" x="500.0" y="890.0" width="100.0" height="100.0" fill="rgb(0.0, 0.0, 0.0)" visibility="hidden">
+<animate attributeType="CSS" begin="20.000000s" dur="1040.000000s" attributeName="visibility" from="visible" to="hidden"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="y" from="890.0" to="670.0" fill="freeze"/>
+<animate attributeType="CSS" begin="20.000000s" dur="40.000000s" attributeName="fill" from="rgb(0.0, 0.0, 0.0)" to="rgb(1.0, 0.0, 0.0)" fill="freeze"/>
+</rect>
+</svg>

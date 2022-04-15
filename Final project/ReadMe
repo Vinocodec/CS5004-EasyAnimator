@@ -1,0 +1,73 @@
+ReadMe
+
+//This is an overview of what the final project.
+
+Purpose of the assignment:  Design a MVC project to represent an animation.
+
+****Model:  
+
+***Shape (Interface)
+Contains some getters to get the attributes and some setters to set some new attributes.
+
+**AbstractShape
+
+*Rectangle 
+*Oval 
+
+
+***Animations (Interface) 
+Contains some methods related to Animations. Includes getName, getType, getStartTime, getEndTime, generateAnimation. 
+
+**AbstractAnimation
+
+*Move
+*Scale
+*Color
+
+
+***Model (Interface) 
+Represents an animation model. It contains 4 gets some methods to generate the animation and add and remove shape from list.
+
+**ModelImpl
+Represents an implement of the animation model. It uses ArrayList and Map to store shapes and animations. It also contains some methods to get the specific output of the animations.
+
+
+****View:
+
+***AnimatorView (Interface)
+Represents an animator view. It contains method to display 3 kinds of user interface.
+
+**AnimatorViewGUI
+Represents a GUI view. It can display a GUI window to start animation, set the speed of the animation and so force.
+
+**AnimatorViewSVG
+Represents a SVG view.
+
+**AnimatorViewText
+Represents a text view.
+
+
+****Controller
+
+***AnimatorController (Interface)
+Represents an animator controller. It contains method to perform actions.
+
+**AnimatorGUIController
+Represents a GUI controller.
+
+**AnimatorSVGController
+Represents a SVG controller. It can generate a SVG file of the animation.
+
+**AnimatorTextController
+Represents a text controller.
+
+
+											                   
+
+																   
+
+
+
+				 
+
+				
